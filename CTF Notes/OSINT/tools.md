@@ -1,5 +1,6 @@
 ## Metadata
 <a href="https://www.metadata2go.com/view-metadata">Metadata</a>
+<a href="https://metadataremover.ai/metadata-viewer">Metadata Viewer</a> — Inspects supported image metadata locally in the browser; corroborate forensic findings with another parser.
 
 ## File command
 running this command:
